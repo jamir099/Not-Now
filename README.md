@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**NotNow** is a full-featured e-commerce website built with React and Redux. It supports user registration, login, and authentication using React Context. Users have a personalized dashboard to view products, manage their profile (update name, email, password), log out, and even delete their account. The cart page displays products added by the user.
+**NotNow** is a full-featured e-commerce website built with React - Redux and styled with tailwindCSS. It supports user registration, login, and authentication using React Context. Users have a personalized dashboard to view products, manage their profile (update name, email, password), log out, and even delete their account. The cart page displays products added by the user.
 
 Admins have a separate dashboard to manage products, including creating, updating, and deleting products, as well as updating admin settings. All product data is managed using the [FakeStore API](https://fakestoreapi.com/) and a custom backend powered by `json-server`.
 
@@ -35,5 +35,4 @@ This project demonstrates complete CRUD operations, user authentication, and sta
     - **Data:** All data operations are handled via RESTful endpoints using `json-server`.
 
 ---
-
 Feel free to contribute or customize as needed!
